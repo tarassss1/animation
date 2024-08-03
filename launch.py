@@ -1,5 +1,6 @@
 import pygame
 import main
+import math
 pygame.init()
 
 window = pygame.display.set_mode((600,400))
